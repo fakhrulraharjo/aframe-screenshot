@@ -1,4 +1,4 @@
-var sceneEl = document.querySelector('a-scene');
+var sceneEl = document.getElementById('scene');
 var counter = 0;
 
 let shareData;
